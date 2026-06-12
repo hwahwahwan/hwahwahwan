@@ -1,7 +1,7 @@
 # 안녕하세요 👋 정용환입니다
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&color=58A6FF&width=800&lines=%EC%83%9D%EA%B0%81%ED%95%9C%20%EA%B2%83%EC%9D%80%20%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B0%20%EB%B0%B0%EC%9B%8C%EA%B0%91%EB%8B%88%EB%8B%A4.;%EB%B0%B1%EC%97%94%EB%93%9C%EC%99%80%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B0%2C%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EC%9A%B4%EC%98%81%ED%95%B4%20%EB%B3%B4%EB%8A%94%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%20%EB%8C%80%ED%95%99%EC%83%9D%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&pause=2000&center=true&color=58A6FF&width=800&lines=%EC%83%9D%EA%B0%81%ED%95%9C%20%EA%B2%83%EC%9D%80%20%EA%B5%AC%ED%98%84%ED%95%98%EB%A9%B0%20%EB%B0%B0%EC%9B%8C%EA%B0%91%EB%8B%88%EB%8B%A4.;%EB%B0%B1%EC%97%94%EB%93%9C%EC%99%80%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B0%2C;%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EC%9A%B4%EC%98%81%ED%95%B4%20%EB%B3%B4%EB%8A%94%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%20%EB%8C%80%ED%95%99%EC%83%9D%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
 </p>
 
 ---
@@ -18,6 +18,39 @@
 
 [![Blog](https://img.shields.io/badge/Blog-hwahwahwan.tistory.com-orange?style=flat-square&logo=tistory&logoColor=white)](https://hwahwahwan.tistory.com)
 [![Email](https://img.shields.io/badge/Email-haruno43209@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:haruno43209@gmail.com)
+
+---
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/hwahwahwan/Kakao-talk">
+        <img src="https://github.com/user-attachments/assets/1e11c67a-9637-4bfe-bb4d-e01bb1e57e8d" width="100%" alt="웹 카카오톡"/>
+      </a>
+      <br/><b>웹 카카오톡 프로젝트</b>
+      <br/><sub>Socket.io 실시간 채팅 · RAG 챗봇 · 시선추적</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/hwahwahwan/Python_Bus_Project">
+        <img src="https://github.com/user-attachments/assets/39a88a56-1dab-4a5f-a442-e115cfb87d48" width="100%" alt="서울시 실시간 대시보드"/>
+      </a>
+      <br/><b>서울시 실시간 대시보드</b>
+      <br/><sub>공공 API · 실시간 버스 위치 · 지도 시각화</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/hwahwahwan/dress_game">
+        <img src="https://github.com/user-attachments/assets/39015939-941e-49ad-9dfe-d0cfdfaaff60" width="100%" alt="Dress Up Simulator"/>
+      </a>
+      <br/><b>Dress Up Simulator</b>
+      <br/><sub>C 자료구조 직접 구현 · React · REST API</sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 

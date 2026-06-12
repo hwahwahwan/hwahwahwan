@@ -21,39 +21,6 @@
 
 ---
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/hwahwahwan/Kakao-talk">
-        <img src="https://github.com/user-attachments/assets/1e11c67a-9637-4bfe-bb4d-e01bb1e57e8d" width="100%" alt="웹 카카오톡"/>
-      </a>
-      <br/><b>웹 카카오톡 프로젝트</b>
-      <br/><sub>Socket.io 실시간 채팅 · RAG 챗봇 · 시선추적</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/hwahwahwan/Python_Bus_Project">
-        <img src="https://github.com/user-attachments/assets/39a88a56-1dab-4a5f-a442-e115cfb87d48" width="100%" alt="서울시 실시간 대시보드"/>
-      </a>
-      <br/><b>서울시 실시간 대시보드</b>
-      <br/><sub>공공 API · 실시간 버스 위치 · 지도 시각화</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/hwahwahwan/dress_game">
-        <img src="https://github.com/user-attachments/assets/39015939-941e-49ad-9dfe-d0cfdfaaff60" width="100%" alt="Dress Up Simulator"/>
-      </a>
-      <br/><b>Dress Up Simulator</b>
-      <br/><sub>C 자료구조 직접 구현 · React · REST API</sub>
-    </td>
-    <td></td>
-  </tr>
-</table>
-
----
-
 ## 🛠 Tech Stack
 
 **Backend**
